@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cuadro{
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+    font-size: 150px;
+}
+h1{
+    color:red; 
+}
+h2{
+    color:blue;
+}
