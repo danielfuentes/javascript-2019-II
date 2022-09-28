@@ -9,7 +9,7 @@ window.addEventListener('load',function(){
   //var formulario = document.forms[0]
   //Esta es otra forma de capturar el formulario
   
-  let fomulario = document.querySelector('.form');
+  let formulario = document.querySelector('.form');
   //Con esta línea hago que el al cargar el formulario, el cursor se posicione en el campo email
   formulario.elements.email.focus();
   //Esto lo coloque para que lo puedan ver en la consola
